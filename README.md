@@ -1,4 +1,5 @@
-# OK
+# Falling-Game-PlaceholderName
+
 
 ## Description
 A game where the main character is falling through a pit and has to dodge the obstacles, as the game advances it progressively gets faster. The game ends when you hit an obstacle and you lose or get to the bottom of the pit and win. 
